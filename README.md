@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Effendy!<br>
 👩🏻‍💻 Sharing about my journey and learnings in tech<br/><br>
-👩🏻‍🎓Studied Information Technology at the SEGi Collage Kuala Lumpur, Malaysia<br/><br>
+👩🏻‍🎓Studied Information Technology at SEGi Collage Kuala Lumpur, Malaysia<br/><br>
 💭Currently learning about Web Development!<br/>
 
 
